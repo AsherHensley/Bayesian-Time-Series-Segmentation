@@ -1,6 +1,6 @@
 function [z,stats] = initMarkovChain(x,c,d,alpha)
 %MAKESTATESEQUENCE Initialize Markov Chain 
-%   [z,stats] = runParticleFilter(x,c,d,alpha) returns initialized latent
+%   [z,stats] = initMarkovChain(x,c,d,alpha) returns initialized latent
 %   state sequence z and stats structure given measurements x and
 %   hyperparameters c, d, and alpha.
 %
