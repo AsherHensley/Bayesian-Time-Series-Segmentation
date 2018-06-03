@@ -1,4 +1,4 @@
-# Nonparametric-Learning-for-Hidden-Markov-Models-with-Preferential-Attachment-Dynamics
+# Bayesian-Time-Series-Segmentation
 
 This repositiory contains the code used to generate experimental results from the paper:
 
